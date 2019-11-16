@@ -1,4 +1,4 @@
-console.log('hello h');
+console.log('hello hai dep trai');
 
 //var ultil= require('./ultil');
 var MD5 = require('md5.js')
