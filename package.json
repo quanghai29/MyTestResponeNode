@@ -1,0 +1,26 @@
+{
+  "name": "sale",
+  "version": "1.0.0",
+  "description": "testnode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app-express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quanghai29/MyTestResponeNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quanghai29/MyTestResponeNode/issues"
+  },
+  "homepage": "https://github.com/quanghai29/MyTestResponeNode#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "md5.js": "^1.3.5",
+    "morgan": "^1.9.1"
+  }
+}
